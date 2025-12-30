@@ -4,7 +4,6 @@ A database-driven web application designed to bridge the gap between students an
 
 ## 🚀 Features
 * **Role-Based Access:** Distinct portals for Students, Alumni, and Administrators.
-* **Automated Capacity Management:** Uses **SQL Triggers** to automatically cap mentor loads (e.g., Max 5 students) to prevent burnout.
 * **Smart Search:** Mentors can be filtered by industry and rating using **Stored Procedures**.
 * **Real-Time Analytics:** **Stored Functions** calculate mentor reputation scores dynamically based on student feedback.
 * **Session Tracking:** Complete lifecycle management from request to session completion logs.
